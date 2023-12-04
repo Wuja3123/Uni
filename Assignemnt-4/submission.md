@@ -1,6 +1,6 @@
 Assignment 4: Algorithms   
 Assignment number: 2.1 und 2.2   
-Name: Janis Wuga  
+Name: Janis Wuga   
 Matrikelnummer: 12313444   
 Date: 04.12.2023   
 My own production  
